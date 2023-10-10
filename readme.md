@@ -1,6 +1,6 @@
 # Slim Framework
 
-This is a Slim application created to learn Slim framework and apply tools/concepts as Docker, RabbitMQ, Swift Mailer, authentication using JWT. Tests written using PHPUnit.
+This is a Slim application created to learn Slim framework and apply tools/concepts as Docker, RabbitMQ, Swift Mailer, authentication using JWT. Tests written using PHPUnit. PostgreSQL is the database used to store data.
 
 The project has an architecture using Controller, Services and Repositories. Also has Response classes and Entity classes in order to manipulate data. 
 
